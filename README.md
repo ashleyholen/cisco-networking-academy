@@ -1,5 +1,5 @@
 # cisco-networking-academy
 
-![Unknown](https://github.com/user-attachments/assets/2ab1935e-8185-4ed2-b1f7-221face384a6)
+![images](https://github.com/user-attachments/assets/65a67628-c6f8-44bf-b9a9-97719b7ea178)
 
-CS300 Network Systems and Management - Final Project
+CS300 Network Systems and Management - Final Project Packet Tracers
